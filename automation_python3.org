@@ -1,0 +1,9 @@
+* How to install python38 on openSUSE
+https://snapcraft.io/install/python38/opensuse
+
+* Git基础
+** https://backlog.com/git-tutorial/cn/intro/intro1_1.html
+*** https://f5git.backlog.com/projects/F5AUTOMATION
+https://f5git.backlog.com/git/F5AUTOMATION/tutorial/commit/ac2848d85ec0da4ecc5c5002241eee82b939b3a8
+
+** https://www.liaoxuefeng.com/wiki/896043488029600/898732792973664
